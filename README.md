@@ -1,4 +1,27 @@
-## Welcome to GitHub Pages
+# **Rikiyah Fletcher**
+
+## **About Me**
+Hi, my name is Rikiyah Fletcher. I am a graduating senior preparing to enter the real world <br />
+to begin the rest of my life.  
+
+## **Experience**
+
+#### Senior Design - Consulting Project
+Analyzing the current process to help the client improve daily production to meet rising demands <br />
+<br/>
+Serving as the project manager and the point of contact for all client communication <br />
+<br/>
+Demonstrating the ability to work professionally as an entry-level Industrial Engineer with verbal and written communication skills, quality-oriented thinking, and the ability to choose the correct tools and techniques to provide a solution <br />
+
+
+#### Emerging Technologies Intern <br />
+Oklahoma State University Library &nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp; **since August 2017**
+
+
+## **Education**
+Oklahoma State University <br/>
+B.S. Industrial Engineering & Management <br />
+Graduation Date: Decmeber 2018 <br />
 
 You can use the [editor on GitHub](https://github.com/rikiyahf/Fletcher_Fall18_Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,7 +41,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1. **Numbered**
 2. List
 
 **Bold** and _Italic_ and `Code` text
