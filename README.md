@@ -1,5 +1,9 @@
-# *Rikiyah Fletcher*
 
+<p align="center">
+<img src="https://media.licdn.com/dms/image/C4E03AQHykGUKxinL0g/profile-displayphoto-shrink_800_800/0?e=1545868800&v=beta&t=1YWAFmFgXeYvKmmWzRj8MhNvCfOrOw9jvqXb2NXrb3g" > 
+</p>
+
+# *Rikiyah Fletcher* 
 ## *About Me*
 Hi, my name is Rikiyah Fletcher. I am a graduating senior preparing to enter the real world <br />
 to begin the rest of my life.  
@@ -23,7 +27,7 @@ to begin the rest of my life.
  - Host and coordinate events showcasing new software and hardware available in the library
 
 
-### Database Design Project - Class Project
+#### Database Design Project - Class Project
 - Collaborated with team members to develop a database that searched, entered, and displayed students' information in Microsoft Access </br>
 - Eliminated data duplication and unnecessary work while improving overall efficiency and adding innovative capabilities </br>
 - Reduced the time required to enter students' information and to approve or deny them a proctor
@@ -52,34 +56,4 @@ Academic Excellence Chair &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 - Implemented a mentor and mentee program pairing freshmen and sophmores with upperclassmen 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. **Numbered**
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rikiyahf/Fletcher_Fall18_Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
